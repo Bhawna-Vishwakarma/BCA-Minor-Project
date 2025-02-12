@@ -1,7 +1,7 @@
-##📖 Personal Blogging Site
+**📖 Personal Blogging Site**
 🚀 A Personal Blogging Website built with Tailwind CSS, HTML, JavaScript, PHP, and MySQL. This project allows users to write, edit, and manage blog posts with an easy-to-use interface.
 
-##🛠️ Features
+**🛠️ Features**
 ✅ User authentication (Login/Register)
 ✅ Create, edit, and delete blog posts
 ✅ Rich text editor (CKEditor integration)
@@ -9,26 +9,23 @@
 ✅ MySQL database for storing blog posts
 ✅ Secure & optimized PHP backend
 
-##📸 Screenshots
+**📸 Screenshots**
 (Add images of your project UI here, if available)
 
-##⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 1️⃣ Clone the Repository
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```bash
 
 2️⃣ Configure Database
 
 Import the bloging.sql file into your MySQL database.
 Update database credentials in config.php:
 
-php
-Copy
-Edit
+```bash
 $host = "localhost";
 $user = "your_username";
 $password = "your_password";
@@ -38,17 +35,15 @@ $database = "your_database";
 If using XAMPP, place the project inside htdocs and start Apache & MySQL.
 Open the project in a browser:
 
-arduino
-Copy
-Edit
+```bash
 http://localhost/your-project-folder
 
-##🛠️ Technologies Used
+**🛠️ Technologies Used**
 Frontend: HTML, Tailwind CSS, JavaScript
 Backend: PHP
 Database: MySQL
 Rich Text Editor: CKEditor
 
-##🙌 Contributing
+**🙌 Contributing**
 Feel free to contribute by reporting issues or suggesting improvements!
 
