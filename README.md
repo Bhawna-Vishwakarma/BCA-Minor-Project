@@ -68,16 +68,23 @@ Rich Text Editor: CKEditor
 
 
 **📜 License**
+
 This project is for educational purposes. You are free to modify and use it as needed.
 
 
+
 **🙌 Contributing**
+
 Feel free to contribute by reporting issues or suggesting improvements!
+
 
 
 **📩 Contact Information**
 
 Email: bvishwakarma1008@gmail.com
+
 GitHub: Bhawna-Vishwakarma
+
 LinkedIn: https://www.linkedin.com/in/bhawna-vishwakarma-806726236
+
 Portfolio Website: https://bhawna-vishwakarma.netlify.app/
