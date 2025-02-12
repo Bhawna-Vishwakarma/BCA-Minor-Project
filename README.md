@@ -4,16 +4,12 @@
 **📌 Features**
 
 ✅ User Authentication (Login/Register)
-
 ✅ Create, Edit, and Delete Blog Posts
-
 ✅ Rich Text Editor (CKEditor Integration)
-
 ✅ Responsive Design using Tailwind CSS
-
 ✅ MySQL Database for Blog Storage
-
 ✅ Secure PHP Backend
+
 
 **📸 Screenshots**
 
@@ -28,7 +24,6 @@
 ![image](https://github.com/user-attachments/assets/aa3e5be6-6bc2-4cd8-aa24-41767dfd1701)
 
 ![image](https://github.com/user-attachments/assets/6ba4235d-1d96-4876-a911-fed61deba326)
-
 
 
 **⚙️ Installation & Setup**
@@ -57,27 +52,19 @@ http://localhost/your-project-folder
 **🛠️ Built With**
 
 Frontend: HTML, Tailwind CSS, JavaScript
-
 Backend: PHP
-
 Database: MySQL
-
 Rich Text Editor: CKEditor
 
 **📜 License**
-
 This project is for educational purposes. You are free to modify and use it as needed.
 
 **🙌 Contributing**
-
 Feel free to contribute by reporting issues or suggesting improvements!
 
 **📩 Contact Information**
 
 Email: bvishwakarma1008@gmail.com
-
 GitHub: Bhawna-Vishwakarma
-
 LinkedIn: https://www.linkedin.com/in/bhawna-vishwakarma-806726236
-
 Portfolio Website: https://bhawna-vishwakarma.netlify.app/
